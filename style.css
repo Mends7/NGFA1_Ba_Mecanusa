@@ -1,0 +1,8 @@
+section{
+    display: flex;
+    justify-content: baseline;
+}
+video{
+    height: 100vh;
+    width: 25vw;
+}
